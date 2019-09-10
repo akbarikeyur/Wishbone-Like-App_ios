@@ -1,0 +1,6 @@
+framework module Pods_Wishbone_Like_App {
+  umbrella header "Pods-Wishbone Like App-umbrella.h"
+
+  export *
+  module * { export * }
+}
